@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Test Suite" >
+   <test name="Login Test" >
+   <parameter name="username" value="Admin"/>
+   <parameter name="password" value="admin123"/>
+	       <classes> 
+                 <class name="data.org.DataDriven" />
+       </classes>
+   </test>
+   
+    <!-- <test name="Invalid LoginTest" >
+    
+   <parameter name="username" value="Admin"/>
+   <parameter name="password" value="Admin123"/>
+	       <classes> 
+                 <class name="data.org.IncorrectData" />
+       </classes>
+   </test>
+    -->
+ </suite>
