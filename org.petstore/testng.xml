@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Test Suite">
+	  <!--  <test name="Test1"> <classes> <class name="org.petstore.Petstore_User_Post_API" 
+		/> </classes> </test>  --> 
+	   <test name="Test2"> <classes> <class name="org.petstore.Petstore_User_Get_API" 
+		/> </classes> </test>  
+		  <!-- <test name="Test3"> <classes> <class name="org.petstore.Petstore_User_Update" 
+		/> </classes> </test>  -->
+		<!-- <test name="Test4"> <classes> <class name="org.petstore.Petstore_user_login" 
+		/> </classes> </test>
+ -->
+ 
+
+
+
+</suite>
