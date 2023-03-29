@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-10T17:31:32 IST" name="Test Suite" finished-at="2023-03-10T17:31:36 IST" duration-ms="4327">
+    <groups>
+    </groups>
+    <test started-at="2023-03-10T17:31:32 IST" name="Test1" finished-at="2023-03-10T17:31:34 IST" duration-ms="2024">
+      <class name="rest.assured.Rest_Assured_Get_Method">
+        <test-method signature="test_02()[pri:0, instance:rest.assured.Rest_Assured_Get_Method@66f57048]" started-at="2023-03-10T17:31:32 IST" name="test_02" finished-at="2023-03-10T17:31:34 IST" duration-ms="1998" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_02 -->
+      </class> <!-- rest.assured.Rest_Assured_Get_Method -->
+    </test> <!-- Test1 -->
+    <test started-at="2023-03-10T17:31:34 IST" name="Test2" finished-at="2023-03-10T17:31:35 IST" duration-ms="553">
+      <class name="rest.assured.Rest_Assured_Post_Method">
+        <test-method signature="test01()[pri:0, instance:rest.assured.Rest_Assured_Post_Method@1ffaf86]" started-at="2023-03-10T17:31:34 IST" name="test01" finished-at="2023-03-10T17:31:35 IST" duration-ms="551" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test01 -->
+      </class> <!-- rest.assured.Rest_Assured_Post_Method -->
+    </test> <!-- Test2 -->
+    <test started-at="2023-03-10T17:31:35 IST" name="Test3" finished-at="2023-03-10T17:31:35 IST" duration-ms="537">
+      <class name="rest.assured.Rest_Assured_Put_Method">
+        <test-method signature="test01()[pri:0, instance:rest.assured.Rest_Assured_Put_Method@60099951]" started-at="2023-03-10T17:31:35 IST" name="test01" finished-at="2023-03-10T17:31:35 IST" duration-ms="536" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test01 -->
+      </class> <!-- rest.assured.Rest_Assured_Put_Method -->
+    </test> <!-- Test3 -->
+    <test started-at="2023-03-10T17:31:35 IST" name="Test4" finished-at="2023-03-10T17:31:36 IST" duration-ms="1173">
+      <class name="rest.assured.Rest_Assured_All_Methods">
+        <test-method signature="test_02()[pri:0, instance:rest.assured.Rest_Assured_All_Methods@55a147cc]" started-at="2023-03-10T17:31:35 IST" name="test_02" finished-at="2023-03-10T17:31:36 IST" duration-ms="516" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_02 -->
+        <test-method signature="test_03()[pri:0, instance:rest.assured.Rest_Assured_All_Methods@55a147cc]" started-at="2023-03-10T17:31:36 IST" name="test_03" finished-at="2023-03-10T17:31:36 IST" duration-ms="515" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_03 -->
+        <test-method signature="test01()[pri:1, instance:rest.assured.Rest_Assured_All_Methods@55a147cc]" started-at="2023-03-10T17:31:36 IST" name="test01" finished-at="2023-03-10T17:31:36 IST" duration-ms="136" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test01 -->
+      </class> <!-- rest.assured.Rest_Assured_All_Methods -->
+    </test> <!-- Test4 -->
+  </suite> <!-- Test Suite -->
+</testng-results>
